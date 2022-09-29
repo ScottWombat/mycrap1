@@ -1,0 +1,2 @@
+latitude	longitude	time_received	vehicle_id	distance_along_trip	inferred_direction_id	inferred_phase	inferred_route_id	inferred_trip_id	next_scheduled_stop_distance	next_scheduled_stop_id
+40.668602	-73.986697	2014-08-01 04:00:01	469	4135.3471071014355	1	IN_PROGRESS	MTA NYCT_B63	MTA NYCT_JG_C4-Weekday-141500_B63_123	2.631838042056188	MTA_305423
